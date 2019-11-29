@@ -1,7 +1,6 @@
 hungry=input("R u hungry?")
 if hungry=="yes":
     print("eat chocolate")
-    print("eat icecream")
 else
     print("study lessons")
  
