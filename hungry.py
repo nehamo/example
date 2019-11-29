@@ -6,6 +6,7 @@ else:
     thirsty=input("R u thirsty")
     if thirsty=="yes":
         print("drink watter")
+        print("drink soda")
  
  
  
