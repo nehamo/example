@@ -1,5 +1,5 @@
 hungry=input("R u hungry?")
-if hungry=="yes":
+if hungry=="yes" and hungry=="no":
     print("eat chocolate")
 <<<<<<< HEAD
     print ("eat chocolate cake")
@@ -19,5 +19,6 @@ else:
  
 print("Are you going to college today?");
 print("This is the last day of ur college"); 
+print("How r u today");
  
     
