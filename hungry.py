@@ -9,5 +9,5 @@ else
  
 print("Are you going to college today?");
 print("This is the last day of ur college"); 
- 
+print("I made changes); 
     
